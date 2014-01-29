@@ -7,4 +7,7 @@ class PagesController < ApplicationController
 
   def test
   end	
+
+  def pins
+  end
 end
