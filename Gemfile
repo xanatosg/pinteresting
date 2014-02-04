@@ -31,6 +31,8 @@ gem 'bootstrap-sass', '~> 3.0.3.0'
 
 gem 'devise', '~> 3.1.0.rc2'
 
+gem 'paperclip', '~>3.0'
+
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
